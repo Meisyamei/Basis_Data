@@ -1,4 +1,4 @@
-///MENAMPILKAN DATA DOSEN DAN MATAKULIAH///
+-- MENAMPILKAN DATA DOSEN DAN MATAKULIAH
 
 SELECT d.first_name, d.last_name, k.`matkul`
 FROM Dosen as d
